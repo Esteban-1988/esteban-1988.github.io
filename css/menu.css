@@ -8,6 +8,8 @@ ul {
 	list-style: none;
 }
   
-
+li,i{
+    padding: 10px 25px;
+}
 
   
