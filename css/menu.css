@@ -1,19 +1,13 @@
-  ul {
+ul {
 	display: flex;
 	justify-content: space-between;
 	align-items: justify;
 	background-color: #fbff00;
 	padding: 10px;
 	border-radius: 5px;
-  }
-  
-  li a {
-	text-decoration: none;
-	color: #333;
-  }
-
-  li,i{
-    padding: 10px 25px;
+	list-style: none;
 }
+  
+
 
   
