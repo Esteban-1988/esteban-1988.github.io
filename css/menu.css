@@ -1,3 +1,11 @@
+body {
+    background-image: url('../imgSite/fondo.jpg');
+    background-size:cover;
+    background-repeat: repeat-y;
+    background-position:left 10% right 10%;
+    max-width: 1200px;    
+}
+
 .menuSuperior {
 	position: fixed; 
 	top: 0; 
